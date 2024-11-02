@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Home Practice\\M12_Angular_CoreWebApi\\Exam_Mid_09\\Device_API\\Device_API\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "F:\\Home Practice\\M12_Angular_CoreWebApi\\Exam_Mid_09\\Device_API\\Device_API\\wwwroot\\Pictures\\4df4qcp1.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\4df4qcp1.jpeg"
+    },
+    {
+      "Id": "F:\\Home Practice\\M12_Angular_CoreWebApi\\Exam_Mid_09\\Device_API\\Device_API\\wwwroot\\Pictures\\eoaqa5ws.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\eoaqa5ws.jpg"
+    },
+    {
+      "Id": "F:\\Home Practice\\M12_Angular_CoreWebApi\\Exam_Mid_09\\Device_API\\Device_API\\wwwroot\\Pictures\\kxznhy0p.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\kxznhy0p.jpeg"
+    },
+    {
+      "Id": "F:\\Home Practice\\M12_Angular_CoreWebApi\\Exam_Mid_09\\Device_API\\Device_API\\wwwroot\\Pictures\\oubqjyns.jpeg",
+      "PackagePath": "staticwebassets\\Pictures\\oubqjyns.jpeg"
+    },
+    {
+      "Id": "F:\\Home Practice\\M12_Angular_CoreWebApi\\Exam_Mid_09\\Device_API\\Device_API\\wwwroot\\Pictures\\ypva5rwx.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\ypva5rwx.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Device_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Device_API.props",
+      "PackagePath": "build\\Device_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Device_API.props",
+      "PackagePath": "buildMultiTargeting\\Device_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Device_API.props",
+      "PackagePath": "buildTransitive\\Device_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
